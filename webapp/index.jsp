@@ -7,6 +7,6 @@
 </head>
 <% SimpleDateFormat sdf=new SimpleDateFormat("MM/dd/yyyy"); %>
 <body>
-<h1>Welcome to Tomcat! this is the final test version 4</h1>
+<h1>Welcome to Tomcat! this is the final test version 6</h1>
 </body>
 </html>
